@@ -1,0 +1,8 @@
+Selasa, 13.00-14.40, AIK II
+Selasa, 14.41-17.10, Arsitektur dan Organisasi Komputer
+Rabu, 09.00-11.30, Sistem Informasi (APSI)
+Rabu, 13.00-14.30, Kalkulus II
+Kamis, 13.00-15.30, Pemrograman II (PBO)
+Jumat, 08.00-09.40, Komunikasi Data
+Jumat, 09.41-11.20, Statistik dan Probabilitas
+Jumat, 13.00-15.30, Struktur Data dan Algoritma
